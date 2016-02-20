@@ -1,7 +1,5 @@
 $(call inherit-product, device/htc/m4/full_m4.mk)
 
-$(call inherit-product, vendor/cm/config/gsm.mk)
-
 PRODUCT_RELEASE_NAME := m4
 
 # Inherit some common CM stuff.
